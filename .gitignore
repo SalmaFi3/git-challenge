@@ -1,0 +1,12 @@
+# Fichiers temporaires
+*.tmp
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Variables d'environnement
+.env
