@@ -1,2 +1,2 @@
 # Conflit Git
-Version depuis feature/conflict
+Version depuis main
