@@ -14,3 +14,8 @@
 - **Outil utilisé :** Claude (Anthropic)
 - **Usage :** Aide à la rédaction du fichier config.txt
 - **Compréhension :** Commandes exécutées et vérifiées personnellement
+
+## C04 - git status & staging
+- **Outil utilisé :** Claude (Anthropic)
+- **Usage :** Aide à comprendre la zone de staging et le git add sélectif
+- **Compréhension :** Différence entre fichier untracked, staged et committed comprise
