@@ -64,3 +64,23 @@
 - **Outil utilisé :** Claude (Anthropic)
 - **Usage :** Aide à comprendre git merge --squash
 - **Compréhension :** 3 commits wip squashés en 1 commit propre sur main
+
+## C15 - Cherry-pick
+- **Outil utilisé :** Claude (Anthropic)
+- **Usage :** Aide à comprendre le cherry-pick et son cas d'usage
+- **Compréhension :** Hash récupéré via git log, cherry-pick appliqué sur main
+
+## C16 - Tags v1.0.0
+- **Outil utilisé :** Claude (Anthropic)
+- **Usage :** Aide à comprendre SemVer et les tags annotés
+- **Compréhension :** Tag créé, poussé et visible sur GitHub
+
+## C17 - Créer repo GitHub + push
+- **Outil utilisé :** Claude (Anthropic)
+- **Usage :** Aide à documenter les étapes de création du repo
+- **Compréhension :** Remote, push et tracking compris dès C01
+
+## C18 - Pull Request
+- **Outil utilisé :** Claude (Anthropic)
+- **Usage :** Aide à rédiger la description de la PR
+- **Compréhension :** Cycle complet branche → PR → merge réalisé
