@@ -9,3 +9,8 @@
 - **Outil utilisé :** Claude (Anthropic)
 - **Usage :** Aide à la rédaction des explications sur le version control
 - **Compréhension :** Contenu relu, compris et validé personnellement
+
+## C03 - Configuration Git
+- **Outil utilisé :** Claude (Anthropic)
+- **Usage :** Aide à la rédaction du fichier config.txt
+- **Compréhension :** Commandes exécutées et vérifiées personnellement
