@@ -1,0 +1,23 @@
+# Configuration Git - C03
+
+## Commandes utilisées
+
+# Configurer le nom d'utilisateur
+git config --global user.name "Salma"
+
+# Configurer l'email
+git config --global user.email "s.filahi@mundiapolis.ma"
+
+# Vérifier la configuration complète
+git config --global --list
+
+## Résultat obtenu
+
+user.name=Salma
+user.email=s.filahi@mundiapolis.ma
+
+## Pourquoi c'est important ?
+
+Chaque commit Git est signé avec mon nom Salma et mon email.
+Sans cette configuration, Git ne sait pas qui fait les modifications.
+C'est l'identité qui apparaît dans l'historique du projet.
