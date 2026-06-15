@@ -34,3 +34,13 @@
 - **Outil utilisé :** Claude (Anthropic)
 - **Usage :** Aide à structurer le .gitignore et les explications
 - **Compréhension :** notes.tmp testé et ignoré avec succès, règles de syntaxe comprises
+
+## C09 - Branches (feature/about)
+- **Outil utilisé :** Claude (Anthropic)
+- **Usage :** Aide à structurer about.md et les explications
+- **Compréhension :** Branche créée, commit fait dessus, concept d'isolation compris
+
+## C10 - Merge simple vers main
+- **Outil utilisé :** Claude (Anthropic)
+- **Usage :** Aide à comprendre fast-forward vs merge commit
+- **Compréhension :** Merge réalisé et historique vérifié avec git log --graph
