@@ -19,3 +19,8 @@
 - **Outil utilisé :** Claude (Anthropic)
 - **Usage :** Aide à comprendre la zone de staging et le git add sélectif
 - **Compréhension :** Différence entre fichier untracked, staged et committed comprise
+
+## C06 - Lire l'historique git log + git show
+- **Outil utilisé :** Claude (Anthropic)
+- **Usage :** Aide à comprendre les commandes git log et git show
+- **Compréhension :** Hash du 1er commit retrouvé et inspecté personnellement
