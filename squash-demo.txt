@@ -1,1 +1,2 @@
-squash-demo.txt
+étape 1
+étape 2
