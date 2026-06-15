@@ -99,4 +99,18 @@ GitHub : [@SalmaFi3](https://github.com/SalmaFi3)
 
 ---
 
-*Repository réalisé dans le cadre du parcours Git & GitHub — 2025/2026*
+| C06 | Lire l'historique git log + git show | Fundamentals | 🟡 Moyen | 15 | ✅ |
+| C07 | Undo sans paniquer (restore vs reset) | Fundamentals | 🟡 Moyen | 20 | ✅ |
+| C08 | .gitignore | Fundamentals | 🟡 Moyen | 20 | ✅ |
+| C09 | Branches (feature/about) | Branches | 🟡 Moyen | 20 | ✅ |
+| C10 | Merge simple vers main | Branches | 🟡 Moyen | 20 | ✅ |
+| C11 | Conflit Git créé + résolu | Branches | 🔴 Difficile | 30 | ✅ |
+| C12 | Workflow entreprise | Branches | 🔴 Difficile | 30 | ✅ |
+| C13 | git stash | Advanced | 🟡 Moyen | 30 | ✅ |
+| C14 | Squash | Advanced | 🟢 Expert | 40 | ✅ |
+| C15 | Cherry-pick | Advanced | 🟢 Expert | 40 | ✅ |
+| C16 | Tags v1.0.0 | Advanced | 🟡 Moyen | 25 | ✅ |
+| C17 | Créer repo GitHub + push | GitHub | 🟡 Moyen | 20 | ✅ |
+| C18 | Pull Request | GitHub | 🔴 Difficile | 30 | ✅ |
+| C19 | IA + Git responsable | AI | 🔴 Difficile | 50 | ✅ |
+| C20 | Challenge final | Final | 🟢 Expert | 100 | ✅ |
