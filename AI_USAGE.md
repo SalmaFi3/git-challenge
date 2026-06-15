@@ -29,3 +29,8 @@
 - **Outil utilisé :** Claude (Anthropic)
 - **Usage :** Aide à expliquer la différence entre git restore et git reset
 - **Compréhension :** git restore testé sur README.md, différence des modes de reset comprise
+
+## C08 - .gitignore
+- **Outil utilisé :** Claude (Anthropic)
+- **Usage :** Aide à structurer le .gitignore et les explications
+- **Compréhension :** notes.tmp testé et ignoré avec succès, règles de syntaxe comprises
