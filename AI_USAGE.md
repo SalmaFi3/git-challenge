@@ -24,3 +24,8 @@
 - **Outil utilisé :** Claude (Anthropic)
 - **Usage :** Aide à comprendre les commandes git log et git show
 - **Compréhension :** Hash du 1er commit retrouvé et inspecté personnellement
+
+## C07 - Undo sans paniquer (restore vs reset)
+- **Outil utilisé :** Claude (Anthropic)
+- **Usage :** Aide à expliquer la différence entre git restore et git reset
+- **Compréhension :** git restore testé sur README.md, différence des modes de reset comprise
