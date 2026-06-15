@@ -44,3 +44,23 @@
 - **Outil utilisé :** Claude (Anthropic)
 - **Usage :** Aide à comprendre fast-forward vs merge commit
 - **Compréhension :** Merge réalisé et historique vérifié avec git log --graph
+
+## C11 - Conflit Git créé + résolu
+- **Outil utilisé :** Claude (Anthropic)
+- **Usage :** Aide à comprendre et résoudre les marqueurs de conflit
+- **Compréhension :** Conflit créé volontairement, marqueurs lus et résolus manuellement
+
+## C12 - Workflow entreprise
+- **Outil utilisé :** Claude (Anthropic)
+- **Usage :** Aide à structurer l'ordre de merge des features
+- **Compréhension :** 2 branches créées, mergées dans l'ordre, historique vérifié
+
+## C13 - git stash
+- **Outil utilisé :** Claude (Anthropic)
+- **Usage :** Aide à comprendre le cycle stash/pop
+- **Compréhension :** Stash testé avec changement de branche, pop réussi
+
+## C14 - Squash
+- **Outil utilisé :** Claude (Anthropic)
+- **Usage :** Aide à comprendre git merge --squash
+- **Compréhension :** 3 commits wip squashés en 1 commit propre sur main
