@@ -84,3 +84,13 @@
 - **Outil utilisé :** Claude (Anthropic)
 - **Usage :** Aide à rédiger la description de la PR
 - **Compréhension :** Cycle complet branche → PR → merge réalisé
+
+## C19 - IA + Git responsable
+- **Outil utilisé :** Claude (Anthropic)
+- **Usage :** Génération de calculator.py, rédaction de ai-review.md
+- **Compréhension :** Code relu ligne par ligne, modifié et testé manuellement
+
+## C20 - Challenge Final
+- **Outil utilisé :** Claude (Anthropic)
+- **Usage :** Aide à structurer le bilan final et la documentation
+- **Compréhension :** Tout le parcours réalisé, compris et appliqué personnellement
